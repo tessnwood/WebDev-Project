@@ -1,0 +1,81 @@
+.headings{
+    color:rgba(255, 255, 255, 0.856)
+}
+
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../images/img/timp.jpeg");
+}
+
+.homepage{
+    color:rgb(173, 116, 173);
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.tab{
+    margin-left: 40px;
+    color: rgb(173, 116, 173);
+}
+
+.aboutmehead{
+    color: rgb(173, 116, 173);
+}
+
+.italics{
+    font-style: italic;
+}
+
+.resumehead{
+    color:rgb(173, 116, 173);
+}
+
+.resumetitle{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: none;
+    text-align:left
+}
+
+.resumeitem{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: none;
+    margin-left: 60px;
+    text-align:left
+}
+
+.resumedate{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: none;
+    text-align:left;
+    margin-left: 15px;
+    font-style: italic;
+}
+
+.resumelink{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: none;
+    text-align:left;
+    list-style: none;
+}
+
+.photos{
+    height:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row {
+    display: flex;
+  }
+
+
+  .column {
+    flex: 25%;
+    padding: 5px;
+  }
